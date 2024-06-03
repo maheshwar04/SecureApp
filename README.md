@@ -6,7 +6,7 @@ This project is a backend service built with Java and Spring Boot. It uses MySQL
 ## Features
 - RESTful APIs
 - User authentication and authorization
-- CRUD operations on resources
+- CRUD operations
 
 ## Prerequisites
 - Java 11 or higher
